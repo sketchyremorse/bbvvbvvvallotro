@@ -3,10 +3,10 @@
 <br>
 <br>
 <br>
-  ,,placeholder Jean gray
+  <img alt="Untitled90_20261018125122" src="https://github.com/user-attachments/assets/13fdd45a-d45b-4047-be2d-11811c428806" />
 <br>
 <br>
-  <divider>
+  <img alt="Untitled90_20261017154424" src="https://github.com/user-attachments/assets/add81968-873c-47cb-add1-b1e913d5f662" />
 <br>
 <br>
 <p align="left">
@@ -21,7 +21,7 @@ $\color{#090909}{\texttt{(I am g and I am h.)}}$
 </p>
 <br>
 <br>
-    <divider>
+    <img alt="Untitled90_20261017154424" src="https://github.com/user-attachments/assets/add81968-873c-47cb-add1-b1e913d5f662" />
 <br>
 <br>
 <table>
@@ -35,9 +35,16 @@ $\color{#090909}{\texttt{(I am g and I am h.)}}$
 </td>
 </tr>
 </table>
-          <br>
-  <br>
-<img alt="Untitled90_20261017120049" src="https://github.com/user-attachments/assets/b0165fc8-8d45-485f-86f3-800fd870c7a4" />
+<br> 
+<br>
+<p align="center">
+<img alt="Untitled90_20261017154424" src="https://github.com/user-attachments/assets/add81968-873c-47cb-add1-b1e913d5f662" />
+<br>
+<br>
+  <p align="">
+    bbvvbvvvallotro <br> bbvvbvvvallotro <br> bbvvbvvvallotro <br> bbvvbvvvallotro <br> bbvvbvvvallotro 
+  <a href=""><img alt="Untitled90_20261017120049" src="https://github.com/user-attachments/assets/b0165fc8-8d45-485f-86f3-800fd870c7a4" /></a><br>
+  </p>
 <br>
   <br>
   <br>
