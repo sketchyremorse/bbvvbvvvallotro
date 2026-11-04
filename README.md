@@ -9,6 +9,12 @@
   <img alt="Untitled90_20261017154424" src="https://github.com/user-attachments/assets/add81968-873c-47cb-add1-b1e913d5f662" />
 <br>
 <br>
+<img src="https://hits.sh/github.com/vaciIIator.svg?label=jeans!!&extraCount=970&labelColor=554477&color=40837D" alt="Visitor count">
+<img src="https://img.shields.io/github/followers/vacillator?style=flat&label=grays!&labelColor=554477&color=40837D" alt="Profile followers">
+  <br>
+  <br>
+  <br>
+  <br>
 
   ****
   
@@ -136,5 +142,13 @@ $\color{#475B78}{\texttt{(I am g and I am h.)}}$
 <br>
   <br>
   <br>
+  <table>
+  <tr>
+    <td>
+      made by 
+      
+    </td>
+  </tr>
+    </
 <img alt="Untitled90_20261016215903" src="https://github.com/user-attachments/assets/12b5e075-2245-4afb-ad07-160fce9e9273" />
 </div>
