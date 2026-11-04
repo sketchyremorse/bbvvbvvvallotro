@@ -27,14 +27,86 @@ $\color{#090909}{\texttt{(I am g and I am h.)}}$
 <table>
 <tr>
 <td>
-<deviline>
-  $\color{#090909}{\texttt{
+  
+****
+  
+  $\color{#40947F}{\texttt{valorie}}$
+  <
+  $\color{#40837D}{\texttt{seventeen}}$
+  $\color{#41767B}{\texttt{⨂}}$
+  $\color{#41697A}{\texttt{it/eng}}$
+  <details>
+    <summary>$\color{#475B78}{\texttt{dni}}$</summary>
+    <p align="center">
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+    </p>
+  </details>
+  <br>
+      <br>
+    <details>
+      <summary>$\color{#475B78}{\texttt{int}}$</summary>
+        <p align="center">
+        $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+        </p>
+    </details>
+    <br>
+      <br>
+    <details>
+      <summary>$\color{#475B78}{\texttt{fandoms}}$</summary>
+        <p align="center">
+        $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+      <br>
+      <br>
+      $\color{#409C7F}{\texttt{...}}$
+        </p>
+    </details>
 </td>
 <td>
   <img alt="Untitled90_20261017103747" src="https://github.com/user-attachments/assets/b5286bce-f021-4d3f-9494-035d9ac93030" />
 </td>
 </tr>
 </table>
+  <br>
+  <br>
+  $\color{#409C7F}{\texttt{CHECK}}$ $\color{#40947F}{\texttt{OUT}}$ $\color{#40837D}{\texttt{MY}}$ $\color{#409C7F}{\texttt{LINKS !}}$
+  <br>
+  <br>
+  <a href="https://">
+  <img src="https://img.shields.io/badge/𝖆𝖙𝖆𝖇𝖔𝖔𝖐-554477?style=for-the-badge&labelColor=554477&logoColor=black" alt="𐌀tabook!"></a>
+  <img src="https://img.shields.io/badge/𝖆𝖙𝖆𝖇𝖔𝖔𝖐-554477?style=for-the-badge&labelColor=554477&logoColor=black" alt="trawpage!"></deviline> </td>
 <br> 
 <br>
 <p align="center">
