@@ -145,8 +145,9 @@ $\color{#475B78}{\texttt{(I am g and I am h.)}}$
   <table>
   <tr>
     <td>
-      made by 
-      
+      $\color{#554477}{\texttt{made by}}$ 
+      <a href="https://github.com/sketchyremorse">
+  <img src="https://img.shields.io/badge/sketchyy-475B78?style=for-the-badge&labelColor=475B78&logoColor=black" alt="sketch!"></a>
     </td>
   </tr>
     </
