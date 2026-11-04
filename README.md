@@ -24,7 +24,6 @@ $\color{#475B78}{\texttt{(I am g and I am h.)}}$
 </p>
 <br>
 <br>
-****
     <img alt="Untitled90_20261017154424" src="https://github.com/user-attachments/assets/add81968-873c-47cb-add1-b1e913d5f662" />
 <br>
 <br>
